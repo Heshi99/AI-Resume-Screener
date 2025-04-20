@@ -1,0 +1,6 @@
+flask
+transformers
+sentence-transformers
+python-docx
+PyMuPDF
+pdfminer.six
