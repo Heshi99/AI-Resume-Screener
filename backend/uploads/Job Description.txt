@@ -1,0 +1,41 @@
+Software Engineer – Integrations works closely with all stakeholders in projects to understand the business requirements, making sure they are stated properly and fully agreed. With a good understanding of systems and integrations in general, integration solutions are designed to fulfil business requirements in alignment with IT Architecture standards and IT Design principles used by IFS.
+
+Software Engineer – Integrations validates all integration solutions with the IT Solution Architect (Integrations) during the design and implementation cycles.
+
+Essential Duties and Accountabilities
+• Understanding the business requirements and translate them to technical requirements
+• Develop and Test integration workflows using integration platform
+• Document designs, implementations, processes, and procedures and keep those updated
+• Provide IT Technical support and resolution by actively involving and resolving customer issues/requests, technical evaluations, maintenance, and monitoring of infrastructure
+• Being fully updated and aware of IFS existing IT Standards and IT Architecture frameworks in IT integrations to ensuring robust and secure IT Architecture and IT Service delivery
+• Engage in IT Service delivery to continually improve the Services by providing active participation in assigned projects
+
+Qualifications
+
+Overall Required Competence
+• Excellent knowledge on Service oriented architecture and different authentication methods. E.g., Restful, SOAP web services, Basic Auth, OAuth2.0, Token based
+• Good knowledge about different data structures and standards used in integrations. E.g., JSON, XML, OData, EDI
+• Excellent knowledge on interface protocols. E.g., https, SFTP
+• Strong knowledge around understanding various Application Programme Interfaces (APIs) and how they can be consumed in other applications
+• Strong data analysis skills, working with Data and Database technologies. Specially around Oracle, MSSQL, SQL, PLSQL
+• Adequate knowledge on scripting languages. E.g., JavaScript, PowerShell
+• Excellent analytical and problem-solving skills
+• Ability to work with remote teams
+• Be energetic, actively participate on day today activities and bring new ideas that will benefit the overall services provided
+• Be open to learn and adapt to new Integration platforms, technologies, processes, and methods
+• Ability to follow standard processes & procedures
+• Strong focus on the customer experience
+• Live and promote IFS corporate values
+
+Education and Experience
+'csrf', 'malware protection', 'rat', 'spyware', 'trojan', 'rootkits', 'virus', 'botnets', 'cryptojacking'
+Essential:
+• Fluency in English (written and verbal)
+• University degree in related subjects (or equivalent training or experience)
+
+Desired:
+• Previous experience in a similar role in a similar organization
+• Experience with Boomi integration platform
+• Boomi Certified Professional certification
+• ITIL Foundation certification
+• KCS
